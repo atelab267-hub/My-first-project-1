@@ -1,2 +1,11 @@
 # My-first-project-1
-i am Ali i am computer technology  engineering i junior i learing the language of program python the all me thk .. see you later this first project 
+# My First Project
+
+Hi, I'm Ali. 👋
+
+* I am a junior (third-year) Computer Technology Engineering student.
+* I am currently learning the Python programming language.
+* This is my first project on GitHub.
+
+Thanks for visiting!
+
